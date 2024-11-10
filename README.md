@@ -6,10 +6,13 @@ Click on New repository secret.
 In the Name field, enterSONAR_TOKEN
 In the Value field, enter an existing token, or a newly generated one: Generate a token
 Click on Add secret.
+
 Click on New repository secret.
 In the Name field, enterSONAR_HOST_URL
 In the Value field, enter http://localhost:9000 
 Click on Add secret.
+
+
 Create Workflow YAML File
 What option best describes your project?
 Maven
